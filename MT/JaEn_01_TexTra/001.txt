@@ -1,0 +1,97 @@
+What do you want to do today?
+I want the necessary documents to extend my visa.
+I want the necessary documents for procedures to bring my family to Japan.
+I want to pay my taxes.
+I need proof of income.
+I want to talk about paying taxes.
+I want a tax certificate.
+If you submit it to the Immigration Bureau, you need both a proof of income and a proof of tax payment.
+If you are exempt from tax, you need a tax exemption certificate.
+Do you have the documents you received from the Immigration Bureau?
+Whose certificate do you need?
+Please look at this sample and fill in the application form.
+Can you talk with your family and friends who can speak Japanese on the phone now?
+Please come to this window again with someone who understands Japanese.
+I will connect the videophone call now.
+You need to go to 0 0 City Tax Office (0 0 Branch Office).
+What is your relationship with this person?
+If someone other than the person himself comes to the window, a letter of proxy is required.
+Which year's certificate do you need?
+Example: The 2017 Income Report proves income for the year 2016.
+Can I issue the certificate for the latest fiscal year?
+How many tickets do you need?
+Please show me your ID.
+You can't go through the procedure without your identification paper.
+Where did you live on January 1st of this year?
+Please obtain your certificate at 0 0.
+If you lived outside Japan on January 1st of this year, the certificate cannot be issued.
+Were you working in AD 0 0?
+Do you have anything that shows the annual income of the person who needs a certificate?
+(Withholding Record, Salary Statement, etc.)
+Do you have any other documents?
+Please fill out this form.
+Your income is written.
+The municipal tax and prefectural inhabitants tax is 0 yen.
+You are behind in your tax payment.
+If you pay the unpaid tax now, we can issue a certificate of tax payment immediately.
+Will you pay the tax immediately?
+After you pay the tax at the bank counter, please come back to this counter again with the receipt.
+After you pay the tax at the general affairs section, please come back to this window again with the receipt.
+After you pay the tax at the counter number 0 on the zeroth floor, please come back to this counter again with the receipt.
+May I see your receipt?
+Since the municipal tax and prefectural inhabitants tax is 0 yen, we can't issue a tax certificate.
+If the "Unpaid Amount" is the same as the "Amount Not Yet Due," it is not considered delinquent.
+Your municipal tax and prefectural inhabitants tax are deducted from your salary and paid to Nagoya city by the company you work for.
+I paid this tax.
+Please pay the fee.
+The procedure is over.
+Mandator
+Address
+Name
+Phone Number
+Seal of the person (the person who wants a certificate)
+Person (person who wants a certificate)
+Please write your address, name and phone number.
+Terms of Reference
+Please write down the name and number of certificates you need.
+Agent
+People who come to the counter
+Whose certificate do you need?
+People who came to the counter
+Spouse (wife or husband)
+Parent
+Child
+Application for support
+Pension application
+Public housing (income declaration)
+Loans (borrowing of funds)
+Receiving child allowance
+Submitted by the Immigration
+School Expense Subsidy Application
+Application for High School Enrollment Support Fund / Private High School Tuition Reduction
+Scholarship Application
+Application for Encouragement of Enrollment in Special Needs Education / Encouragement of Enrollment in Private Kindergartens
+Specific medical expenses application
+Visa application
+Bidding
+Submission to public offices (other than bidding)
+Guarantor
+License application for liquor sales business
+Please write the name of the family you are supporting.
+Relationship
+Please write your life situation.
+I'm a dependent of someone.
+A person who supports you
+Student
+School Name
+During medical treatment
+Out of work
+Please write down the name of the person who needs the certificate.
+Please write the address of the person who needs the proof.
+Please write your date of birth.
+Please write down your name.
+Please write down your address.
+Please write down your phone number.
+Application for Tuition Fee Exemption for Universities and Other Schools
+Application for approval of application of Payment When High Medical Treatment Costs Are Incurred and limit amount
+I will give you the 0 0 certificate.

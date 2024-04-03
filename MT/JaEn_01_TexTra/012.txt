@@ -1,0 +1,21 @@
+Year Month Day
+Guardian
+Head of Nagoya Municipal 0 0 Elementary School
+Nagoya City Board of Education
+Submission of School Lunch Application Form
+Thank you for your understanding and cooperation for our school education.
+With regard to school lunch, the Nagoya-city government bears the cost of facility maintenance and personnel expenses for cooks, while parents and guardians bear the cost of purchasing school lunch materials for their children as school meals expenses. Both the Nagoya-city government and parents and guardians bear the cost of running school lunch.
+As a general rule, the monthly school meals expenses is 4,400 yen (excluding August, which may be revised in the future). Please pay by the due date.
+In order to clarify the relationship between the school and parents in providing school meals, we ask that you submit the following application form.
+[[PDEFINE ~ RFFS
+School lunch application form
+Nagoya City 0 0 Elementary School Principal
+Nagoya City Board of Education
+You apply for the school lunch and pay the school meals expenses by the designated deadline.
+Year Month Day
+Address:
+Name of guardian: (signature)
+Delete Mark
+[Relationship:]
+Name of child:
+Date of Birth: Year Month Day

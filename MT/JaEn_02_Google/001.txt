@@ -1,0 +1,97 @@
+what do you want to do today
+I need the documents necessary to extend my visa
+I want the documents necessary for the procedure to bring my family to Japan
+i want to pay my taxes
+I need proof of income
+I want to consult about tax payment
+I want tax payment certificate
+When submitting to the Immigration Bureau, both income proof and tax payment proof are required.
+Tax exempt persons need a tax exemption certificate.
+Do you have the documents you received from the Immigration Bureau?
+Whose certificate do you need?
+Please see this sample and fill out the application form.
+Can you talk on the phone with your family and friends who can speak Japanese now?
+Please come to this window again with someone who understands Japanese.
+I will connect the videophone now.
+You need to go to the 〇〇 city tax office (〇〇 branch office).
+What is your relationship with this person?
+A power of attorney is required if someone other than the applicant visits the counter.
+What year do you need the certificate?
+Example: The 2017 income certificate proves the income in 2016.
+May I issue a certificate for the newest fiscal year?
+How many do you need?
+Please show me your ID.
+You cannot proceed without an ID.
+Where were you on January 1st of this year?
+Please get your certificate at ○○.
+If you lived outside of Japan on January 1st of this year, the certificate cannot be issued.
+Were you working in the year XX?
+Is there anything that shows the annual income of the person who needs proof?
+(withholding slip, pay slip, etc.)
+Do you have other documents?
+Please complete this form.
+Your income is written
+Municipal tax and prefectural tax are 0 yen.
+you are in arrears with your taxes.
+If you pay the unpaid tax now, you can issue a tax payment certificate immediately.
+Will you pay your taxes soon?
+After paying the tax at the bank counter, please come back to this counter with the receipt.
+After paying the tax at the General Affairs Section, please come back to this window with the receipt.
+After paying the tax at the counter on floor ○, please come back to this counter with the receipt.
+Please show me the receipt.
+Municipal tax and prefectural tax are 0 yen, so we cannot issue a tax payment certificate.
+If the "unpaid amount" is the same as the "unpaid amount", it will not be considered delinquent.
+Your municipal/prefectural tax is deducted from your salary by the company you work for and paid to Nagoya City.
+I paid this tax.
+Please pay the fee.
+The procedure is over.
+delegator
+address
+family name
+telephone number
+Seal of the person (person who wants proof)
+The person (person who wants proof)
+Please write your address, name and phone number.
+mandate
+Write the name of the proof you need and the number (required).
+agent
+person coming to the window
+Whose certification do you need?
+person at the window
+spouse (wife or husband)
+parent
+Child
+Support application
+pension application
+Public housing (income declaration)
+Financing (borrowing funds)
+Receipt of child allowance
+Submit to the Immigration Bureau
+Application for school assistance
+Application for high school tuition support and reduction of private high school tuition fees
+Scholarship application
+Special support education enrollment encouragement/private kindergarten enrollment encouragement application
+Specific medical expenses application
+Applying for a visa
+bid
+Submission to public offices (other than bidding)
+guarantor
+Liquor sales license application
+Please write the names of the family members you support.
+relationship (relationship)
+Please write down your living situation.
+Being someone's dependent.
+the person who supports you
+student
+school name
+Under medical treatment
+unemployed
+Please write the name of whose certification you need.
+Please write the address of the person who needs proof.
+Please write your date of birth.
+Please write your name
+Please write your address.
+Please write down your phone number.
+Application for tuition fee exemption for various schools such as universities
+Application for High-Cost Medical Care Expenses/Limit Application Certification
+I will give you a proof of 〇〇.

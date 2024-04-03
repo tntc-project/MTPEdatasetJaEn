@@ -1,0 +1,97 @@
+What would you like to do today?
+I need documents to extend my visa.
+I want the necessary documents for the procedure to invite my family to Japan.
+I want to pay my taxes.
+I need proof of income.
+I would like to discuss payment of taxes.
+I need proof of tax payment.
+When submitting to the Immigration Office, both proof of income and proof of tax payment are required.
+Tax exempt individuals must have a tax exemption certificate.
+Do you have the documents you received from the Immigration Bureau?
+Whose certificate is required?
+Please see this sample and fill out the application form.
+Can I talk on the phone with family and friends who can speak Japanese now?
+Please come to this counter again with someone who understands Japanese.
+I will now connect the videophone.
+You must go to the 00 city tax office (00 sub-branch office).
+What is your relationship with this person?
+If someone other than the applicant comes to the counter, a letter of attorney is required.
+What year's certificate is required?
+Example: Proof of income for the year 2017 proves income during the year 2016.
+Can I be issued a certificate for the most recent fiscal year?
+How many sheets do you need?
+Please show identification.
+You will not be able to proceed without identification.
+Where did you live on January 1 of this year?
+Your certificate should be obtained at ____________.
+If you lived outside of Japan on January 1 of this year, a certificate cannot be issued.
+Did you work in the year XX A.D.?
+Is there anything that shows the annual income of the person for whom proof is required?
+(Gensen Choshuhyo, pay stubs, etc.)
+Are there any other documents?
+Please complete this form.
+Your income is written.
+Citizen and prefectural taxes are 0 yen.
+You are delinquent on your taxes.
+If you pay your unpaid taxes now, we can issue a tax receipt immediately.
+Do you pay your taxes immediately?
+After paying taxes at the bank counter, return to this counter with the receipt.
+After paying your taxes at the General Affairs Section, please come back to this counter with your receipt.
+After paying taxes at the XX counter on the XX floor, please come back to this counter with your receipt.
+Please show me the receipt.
+Since the citizens' and prefectural taxes are 0 yen, a tax payment certificate cannot be issued.
+If the "amount in arrears" is equal to the "amount past due," it is not considered to be in arrears.
+Your municipal and prefectural taxes are paid by the company you work for to the City of Nagoya after being deducted from your paycheck.
+This tax has been paid.
+Please pay the fee.
+The procedure is over.
+trustee
+address (e.g. of house)
+identity
+Phone number
+Seal of the person (who wants the certification)
+The person in question (who wants proof)
+Please write your name, address and phone number.
+delegated matter
+Please write the name of the proof you need and the (required) number of copies.
+agent
+People coming to the counter
+Whose proof is required?
+People who came to the counter
+Spouse (wife or husband)
+parent
+(in broth) pieces of meat, vegetable, etc.
+application for support
+application for a pension
+Public housing (income declaration)
+Loans (capital borrowing)
+Child Allowance Receipt
+Submitted by Immigration Bureau
+Application for Schooling Assistance
+Application for high school enrollment support and private high school tuition reduction
+Scholarship Application
+Application for Special Support Education Schooling Incentive and Private Kindergarten Enrollment Incentive
+Application for specific medical expenses
+Visa Application
+bid
+Submission to public offices (other than bidding)
+guarantor
+Application for a license to sell alcoholic beverages
+Write the names of your dependent family members.
+Relationship
+Describe your living situation.
+You are a dependent of someone else.
+A person who is dependent on you
+Heian-period student of government administration
+school's name
+being under medical care
+currently unemployed
+Please indicate whose proof is needed and write their name.
+Please write the address of the person for whom proof is required.
+Please write your date of birth.
+Write your name.
+Write your address.
+Write your phone number.
+Application for tuition fee waiver for universities and other various schools
+Application for high-cost medical care benefit payment and limit amount application approval
+We will provide you with a 00 proof.

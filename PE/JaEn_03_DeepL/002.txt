@@ -1,0 +1,25 @@
+~Checking the Health Status~
+Instead of filling in the physical condition record, we are now using the app LAVITA to manage our physical condition.
+Please see the instructions below and register to the application at regular times (7:30 am, 11:30 am, 5:30 pm, 9:00 pm).
+How to use the LAVITA health check sheet
+You can input your physical condition record from your smartphone.
+Please refer to the URL below or scan the QR code to access the dedicated website.
+Please enter your body temperature and SpO2 measured in your room and answer each question (12 items).
+See the reverse side for detailed usage instructions.
+LAVITA Login URL
+https://www.lavita.ne.jp/member
+*You can also open the URL by launching your smartphone's camera and reading the QR code here.
+QR code
+Login ID
+Name + ID number@co.jp
+* Enter up to @co.jp.
+Password
+toyokoin1
+* Never change your password.
+* Enter only single-byte lower-case letters.
+Instructions for use are provided on the reverse side.
+How to use the LAVITA health check sheet
+Tap the “Answer” button in the “Health Observation”" section to begin the medical interview.
+Tap the pencil symbol ✐ for temperature and SpO2, select 🔘 for manual input, and enter and confirm values.
+Tap “Yes” or “No” for Q1-12, and if you have other symptoms or something to tell us, please enter it in the “Others” free entry field at the bottom.
+Finally, tap “Register” to complete the Q&A registration.

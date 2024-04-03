@@ -1,0 +1,62 @@
+For single-parent families
+Trouble Consultation Form
+Do you have any problems at work, raising children or living?
+There are various counselors at the ward office and branch offices to think together and solve your problems and worries.
+No matter how trivial it is, it doesn't matter.
+Why don't you talk to the counselor first?
+If necessary, we can cooperate with other consultation services.
+Please tell me about your problem or what you want to consult.
+Please submit this consultation form together with the enclosed Current Status Notice to the ward office or branch office.
+Please note that the contents of the consultation form will not be used as materials for determining payment of the child support allowance, etc.
+I'll keep it a secret.
+Do you have any of the following problems or things you want to consult?
+Place a 0 in parentheses for all applicable fields (multiple answers allowed).
+If you don't have any particular problems, please add 0 to "2 don't want" in Q4.
+Matters related to work and income
+I want to find a job.
+I want to work, but I don't have the energy to look for it.
+I'm working now, but I want to work on better terms.
+Struggling with workplace relationships
+Want to be qualified
+Other (please specify)
+Matters related to health and life
+Physical condition is not good
+There is a time when it is mentally unstable
+Unable to do housework, etc.
+Be troubled with family relations
+Be troubled with the residence
+I want to review my household finances.
+Have trouble obtaining child support
+It is troubled in repayment of debt
+Trouble with language and communication
+Other (please specify)
+Matters relating to children
+Have concerns about raising children
+Feeling burden in raising children
+The child has a chronic disease or disability and feels insecure.
+Not able to keep up with school work
+It does not want to go to the school
+Tend to be withdrawn
+There is not much conversation between parent and child and they do not understand the feelings of the child.
+Feeling insecure about their children's future
+Have trouble with tuition fees
+Other (please specify)
+At the ward office or branch office, we are thinking about what we can do together to solve your problems or worries.
+Would you like to consult with a counselor?
+Desire
+2. Not requested (reason:)
+* If you have already consulted with another institution, please tell me where to consult.
+(Contact:)
+<<Please enter your contact information>>
+Furigana
+Name
+Telephone number
+Time when it is easy to answer the phone such as lunch break at work
+(Weekdays 10 am - 4 pm)
+Monday, Tuesday, Wednesday, Thursday, Friday, any time
+: to:
+* Please note that depending on what you have answered, the ward office or branch office may contact you regardless of whether you wish to do so.
+* Depending on the content of your consultation, you may be able to view information related to the child support allowance or make inquiries to the relevant organizations.
+Ward Office / Branch Office Entry Column
+* Please do not write anything.
+(Certificate Number:)

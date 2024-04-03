@@ -1,0 +1,22 @@
+Due to the approach of Typhoon No. ●, this is the operation plan of the city bus and subway on [Month] [Day] (disclosed on [Month] [Day] [Hour] [Minute])
+As Typhoon No. ● approaches, the city bus and subway will be operated as follows.
+All service will be suspended from around [Hour]:[Minute] (the first train).
+From around [Hour]:[Minute] (the first train), trains will be operated as follows.
+In other lines and sections, trains may be reduced, delayed or suspended.
+Operations between Hoshigaoka (H18) and Fujigaoka (H22) will be suspended and fewer trains will be operated between Takabata (H1) and Hoshigaoka (H18).
+Operations will be suspended.
+Operations between Kami Otai (T01) and Shonai Ryokuchi Koen (T02) will be suspended and trains will operate between Shonai Ryokuchi Koen (T02) and Akaike (T20).
+The direct operation to Meitetsu will be stopped.
+We will operate with fewer trains.
+Regarding the operation of City Bus and Subway due to the approach of Typhoon No. ●
+As Typhoon No. ● approaches, the city bus and subway may be operated as follows.
+Operations may be delayed or suspended.
+Service between Hoshigaoka (H18) and Fujigaoka (H22) may be suspended.
+Service may be suspended between Kami Otai (T01) and Shonai Ryokuchi Koen (T02).
+Direct operation to Meitetsu may be stopped.
+We have released an operation plan due to the approach of Typhoon No. ●.
+Operations are about △△ minutes late.
+Operation is scheduled to resume around ◇◇ o'clock.
+You can get a refund at the station.
+You can take a city bus, Meitetsu or JR instead of the subway.
+Please ask for details at the station.
