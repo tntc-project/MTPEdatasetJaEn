@@ -36,4 +36,4 @@ Rei Miyata (2024) MTPEdocs. https://github.com/tntc-project/MTPEdocs
 ## Acknowledgments
 
 I am grateful to Dr. Atsushi Fujita for his helpful advice on the post-editing data creation.
-Construction of the datasets was supported by JSPS KAKENHI Grant Numbers [JP19H05660](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H05660/) and [JP23H03689](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23H03689).
+Construction of the datasets was supported by JSPS KAKENHI Grant Numbers [JP19H05660](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H05660/) and [JP23K28378](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K28378/).
