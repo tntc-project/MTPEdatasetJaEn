@@ -15,13 +15,17 @@ This repository contains document-level machine translation post-editing (MTPE) 
   - JaEn_03_DeepL: [DeepL](https://www.deepl.com/) (Ja->En; obtained 2023-03-05)
   - JaZh_01_TexTra: TexTra (Ja->Zh; obtained 2023-03-05)
 - [PE](PE): post-edited data of MT
-- [document-list.xlsx](/document-list.xlsx): source information of SD
+- [document-list.xlsx](/document-list.xlsx): source information of SD and HT
 
 ## Source of original documents
 
-Original Japanese documents were selected from the parallel documents in the following dataset:
+The original Japanese documents were selected from the parallel documents in the following dataset:
 
 - Nagoya City and Rei Miyata (2023) Translation Resources of Nagoya City [名古屋市翻訳資源]. https://github.com/tr4lg/nagoya-dataset/ (accessed 2024-03-23).
+
+Document No. 015 was originally published by the Ministry of Health, Labour and Welfare and later edited by Nagoya City.
+
+- Source: [子育て世帯生活支援特別給付金（ひとり親世帯以外分）　リーフレット](https://web.archive.org/web/20210803082408/https://www.mhlw.go.jp/stf/newpage_18013.html) [Guide to the Special Benefit for Supporting Families with Children]
 
 ## License
 
